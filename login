@@ -8,5 +8,6 @@
 {Y                      __/ | {x{WFighter's{x {YEdition{x            {R       .'________/{x
 {Y                     |___/                                           
 {Y({x{R*{x{Y){x{y-------------------------------------------------------------------{x{Y({x{R*{x{Y){x
+    {RImmortals:{x {oTelestrial{x
     {RImmortals:{x {oThunderZ{x, {oGoltred{x, {oKami{x, {oX0cyris{x, {oIris{x, {oMalakai{x
 {Y({x{R*{x{Y){x{y-------------------------------------------------------------------{x{Y({x{R*{x{Y){x
